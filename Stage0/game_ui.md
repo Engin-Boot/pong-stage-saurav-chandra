@@ -7,7 +7,7 @@ This module provides the functions to add or update the game ui, themes and skin
 
 ## Acceptance Criteria
 
-### Scenario: User reach a higher level
+### Scenario: User reaches a higher level
 
   Given game is running without any errors.
 
@@ -15,7 +15,7 @@ This module provides the functions to add or update the game ui, themes and skin
 
   Then upgrade the ball & racket skins.
 
-### Scenario: User unlock background themes by completing tasks
+### Scenario: User unlocks background themes by completing tasks
   
    Given game is running without any errors.
    
